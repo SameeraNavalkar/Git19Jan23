@@ -1,4 +1,5 @@
 This is my third file.
 Adding a new line locally in the third file
 adding a line to stash
+Added a line locally
 
