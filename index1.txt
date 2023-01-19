@@ -1,2 +1,3 @@
 This is my first git file
 index1.txt
+This is a newly added line locally
