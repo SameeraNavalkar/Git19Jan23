@@ -1,1 +1,2 @@
 This is file index2. Second index file
+Made changes locally to this file
